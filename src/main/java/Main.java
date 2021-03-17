@@ -18,7 +18,7 @@ public class Main {
     }
     public static void main(String[] args) throws IOException {
         File source = new File("C:\\Users\\leoni\\OneDrive\\Υπολογιστής\\stackSpanProb.txt");
-        File destination = new File("C:\\Users\\leoni\\OneDrive\\Υπολογιστής\\compressedStackSpanProb.txt");
+        File destination = new File("C:\\Users\\leoni\\OneDrive\\Υπολογιστής\\stackSpanPro.txt");
         compress(source,destination);
 
 
